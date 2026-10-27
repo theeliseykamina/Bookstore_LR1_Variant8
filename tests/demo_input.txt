@@ -1,0 +1,36 @@
+1
+The Master and Margarita
+Mikhail Bulgakov
+1967
+A novel about Moscow
+Novel
+480
+790.50
+2
+C++ Basics
+I. Ivanov
+2021
+University
+3
+300
+1200
+3
+Pen
+Blue
+Writing
+45
+4
+6
+3
+2
+Black
+4
+8
+examples/bookstore_demo.dat
+7
+1
+9
+examples/bookstore_demo.dat
+4
+10
+0

@@ -1,0 +1,16 @@
+1
+Test Book
+Test Author
+abc
+2020
+Test annotation
+Test genre
+-3
+100
+15,75
+8
+examples/does_not_exist_dir/file.dat
+9
+examples/no_such_file.dat
+4
+0

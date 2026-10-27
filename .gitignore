@@ -1,0 +1,11 @@
+bin/
+obj/
+*.exe
+*.o
+*.layout
+*.depend
+.vscode/
+*.cbTemp
+*.cbp.layout
+build/
+examples/*.dat

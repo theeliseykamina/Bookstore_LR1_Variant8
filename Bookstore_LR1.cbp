@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+    <FileVersion major="1" minor="6" />
+    <Project>
+        <Option title="Bookstore_LR1_Variant8" />
+        <Option pch_mode="2" />
+        <Option compiler="gcc" />
+        <Build>
+            <Target title="Debug">
+                <Option output="bin/Debug/Bookstore_LR1" prefix_auto="1" extension_auto="1" />
+                <Option object_output="obj/Debug/" />
+                <Option type="1" />
+                <Option compiler="gcc" />
+                <Compiler><Add option="-g" /><Add option="-std=c++17" /><Add option="-Wall" /><Add option="-Wextra" /></Compiler>
+            </Target>
+            <Target title="Release">
+                <Option output="bin/Release/Bookstore_LR1" prefix_auto="1" extension_auto="1" />
+                <Option object_output="obj/Release/" />
+                <Option type="1" />
+                <Option compiler="gcc" />
+                <Compiler><Add option="-O2" /><Add option="-std=c++17" /><Add option="-Wall" /><Add option="-Wextra" /></Compiler>
+            </Target>
+        </Build>
+        <Compiler><Add directory="src" /></Compiler>
+        <Unit filename="src/Base.cpp"><Option compilerVar="CPP" /></Unit>
+        <Unit filename="src/Base.h"><Option compile="0" /><Option link="0" /></Unit>
+        <Unit filename="src/Book.cpp"><Option compilerVar="CPP" /></Unit>
+        <Unit filename="src/Book.h"><Option compile="0" /><Option link="0" /></Unit>
+        <Unit filename="src/Textbook.cpp"><Option compilerVar="CPP" /></Unit>
+        <Unit filename="src/Textbook.h"><Option compile="0" /><Option link="0" /></Unit>
+        <Unit filename="src/Stationery.cpp"><Option compilerVar="CPP" /></Unit>
+        <Unit filename="src/Stationery.h"><Option compile="0" /><Option link="0" /></Unit>
+        <Unit filename="src/Keeper.cpp"><Option compilerVar="CPP" /></Unit>
+        <Unit filename="src/Keeper.h"><Option compile="0" /><Option link="0" /></Unit>
+        <Unit filename="src/Input.cpp"><Option compilerVar="CPP" /></Unit>
+        <Unit filename="src/Input.h"><Option compile="0" /><Option link="0" /></Unit>
+        <Unit filename="src/main.cpp"><Option compilerVar="CPP" /></Unit>
+        <Extensions><code_completion /></Extensions>
+    </Project>
+</CodeBlocks_project_file>
